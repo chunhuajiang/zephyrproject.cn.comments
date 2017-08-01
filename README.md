@@ -1,2 +1,2 @@
 # zephyrproject.cn.comments
-zephyrproject.cn 的评论仓库
+用来存放网站 zephyrproject.cn 的评论
